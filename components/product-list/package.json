@@ -1,0 +1,22 @@
+{
+  "name": "@bit/cesarinapaula.testing.product-list",
+  "version": "0.0.2",
+  "homepage": "https://bit.dev/cesarinapaula/testing/product-list",
+  "main": "dist/index.js",
+  "componentId": {
+    "scope": "cesarinapaula.testing",
+    "name": "product-list",
+    "version": "0.0.1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.21"
+    }
+  }
+}
